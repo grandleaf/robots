@@ -157,7 +157,6 @@ gtc
 gtrsq
 Guga1
 guoren
-guyang
 GYCS
 h20102010
 h44388393
@@ -348,6 +347,7 @@ qr1997
 qt1997
 QTFTET123
 quanquan1234
+quantfin26
 Quianae
 Quincycc
 qw1997
@@ -438,8 +438,6 @@ wersaq
 Wesleye
 wlkiess
 wm123456
-wmkj2345
-wmkj4567
 wmkjbbs
 wmrencai
 wohenpang
