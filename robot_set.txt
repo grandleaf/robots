@@ -209,7 +209,6 @@ nokia9300
 NOMAJIA
 nononoyes
 NotJY
-oakleaf
 oingsq
 Oldwell
 olpil
@@ -335,7 +334,6 @@ zhangyx4
 zhangyx5
 zhangyx6
 zhonghuahua
-ZhongXiang
 Zhugestream
 Zinus
 zjuyejun
