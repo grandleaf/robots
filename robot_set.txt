@@ -8,7 +8,6 @@ alm
 Amandapy
 Amyyi
 anews
-ansel3
 anxin
 appios001
 arman
@@ -29,7 +28,6 @@ Bigbear1964
 bigrocinwind
 bigVV
 birdnodead
-bitkevin
 bitsummer201
 bltaohua
 boter
@@ -191,7 +189,6 @@ model
 monkey0
 moonlion
 MountainRD
-MSCOTT
 mynight3
 ncvksio
 nicegir
