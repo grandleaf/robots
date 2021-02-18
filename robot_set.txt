@@ -206,6 +206,7 @@ onefourseven
 onews
 opa21
 opeding
+optifree
 pangyuyu
 patasano
 penzi
@@ -213,6 +214,7 @@ petersam
 pftianzun
 pingping524
 pinkman
+populist
 poxiaoyu
 poyang
 ppyueyeu
@@ -253,7 +255,6 @@ swqac
 swyswag
 taih
 TaiHuShui
-takeaway
 taprogram
 tcctmers
 tcmwk
@@ -319,5 +320,4 @@ zhonghuahua
 Zhugestream
 Zinus
 Zorap
-zwmpt
 zyxwv
