@@ -9,6 +9,7 @@ ansel3
 anxin
 appios001
 ASDqwelk
+atxt
 aywl
 Azathoth0
 baideng
@@ -32,6 +33,7 @@ bnews
 boter
 bullstock
 bunana11
+butterflyma
 bxiaohai
 carkong
 carlhuang
@@ -97,6 +99,7 @@ fnews
 Funnydo
 funstock
 gc01
+gene8
 georgechen
 geyimin1969
 gileaw
@@ -115,6 +118,7 @@ hangzhouxi
 haoihcs
 happygm
 Hastur
+hellwalker
 hellwheeler
 HEYNight999
 hijli
@@ -173,7 +177,6 @@ mitbbsus
 mkjqas
 mmmklo
 model
-Monarch7
 monkey0
 moonlion
 MountainRD
@@ -290,6 +293,7 @@ zhangyx4
 zhangyx5
 zhangyx6
 zhizzz
+zhonghuahua
 Zinus
 Zorap
 zzjjxx
