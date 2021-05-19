@@ -58,7 +58,6 @@ CRfans7
 crpet
 csdaisy
 csdaisy01
-Csem1
 cutsee
 daguanyuan
 dailu
@@ -109,7 +108,6 @@ gileaw
 Giltobe
 gingging
 GKKL
-GoLost
 greenlands
 gtrsq
 guoren
@@ -273,6 +271,7 @@ wantianming
 Warrenner
 WeGreened
 wersaq
+wgyeric
 winla
 wiper
 wmrencai
