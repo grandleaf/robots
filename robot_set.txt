@@ -13,6 +13,7 @@ appios001
 ASDqwelk
 aywl
 Azathoth0
+Azgalor
 baideng
 Balanar
 baniony
@@ -50,7 +51,6 @@ chengyuan
 chibaneutron
 chibaozi
 chidiansha
-chjy002
 cnews
 Coralsdream
 Coralsdreams
@@ -109,7 +109,6 @@ gileaw
 Giltobe
 gingging
 GKKL
-GoLost
 greenlands
 gtrsq
 guoren
@@ -133,6 +132,7 @@ hooyou
 hslaoyao
 huahua20
 hugo745
+iefhaf
 inews
 inipvpkok
 jaketto
