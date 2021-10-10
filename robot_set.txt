@@ -44,6 +44,7 @@ chengyuan
 chibaneutron
 chibaozi
 chidiansha
+clon
 cnews
 coco24
 coollpe
@@ -84,9 +85,7 @@ Fallingrain8
 fbmanong
 feixiang123
 fgbhyq
-financeguy
 fnews
-fqyang
 Funnydo
 funstock
 gc01
@@ -287,14 +286,12 @@ wenjian
 wersaq
 wgyeric
 winla
-wiper
 wlkiess
 wmrencai
 wohenpang
 woshifanfan
 wuhandong
 WUYUE123
-wx01
 xiaochunzi
 xiaofeng123
 xiaoqing123
