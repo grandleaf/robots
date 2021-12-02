@@ -72,7 +72,6 @@ EHRTF
 endiy
 enews
 EthanGARY
-EUOaMp1
 Evilcpc
 Fallingrain8
 feixiang123
