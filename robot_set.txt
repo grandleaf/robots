@@ -71,7 +71,6 @@ eastern2019
 EHRTF
 endaimien
 enews
-EscaladeKing
 EthanGARY
 Evilcpc
 fallingrain5
@@ -196,6 +195,7 @@ opa21
 opeding
 pangyuyu
 pftianzun
+pigy
 pinkman
 pipihui
 plasma2004
@@ -273,7 +273,6 @@ youmini
 yoyo233
 yuanmlo
 yuputi
-zeronurse
 zhangwuji778
 zhangyx
 zhangyx1
