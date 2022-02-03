@@ -70,6 +70,7 @@ eastern2019
 EHRTF
 endaimien
 enews
+EscaladeKing
 Evilcpc
 fallingrain5
 Fallingrain8
@@ -192,6 +193,7 @@ opa21
 opeding
 pangyuyu
 pftianzun
+pheochromo
 pigy
 pinkman
 pipihui
@@ -259,7 +261,6 @@ xiaofeng123
 xiaojiang001
 xiaojiejie
 xiaoqing123
-xin421
 xitataoop
 xiu
 xkaoyou
@@ -271,6 +272,7 @@ youmini
 yoyo233
 yuanmlo
 yuputi
+zhangloux
 zhangwuji778
 zhangyx
 zhangyx1
