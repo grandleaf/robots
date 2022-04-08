@@ -11,7 +11,6 @@ allprayer
 anews
 aoile
 appios001
-Aquapig
 awedRaisins
 Azathoth0
 baideng
@@ -37,7 +36,6 @@ chimita32
 cnews
 Coralsdreams
 coronavirus
-cowboyniu
 cqmxmgjy
 cryman
 csdaisy
@@ -190,6 +188,7 @@ pinkman
 pipihui
 plasma2004
 pmjflqpo
+postr
 poxiaoyu
 poyang
 ppyueyeu
@@ -275,7 +274,6 @@ zhangyx5
 zhangyx6
 zhangzuda
 zhangzuda512
-zhaozhaozi
 zhizzz
 zhongguo123
 zhonghuahua
